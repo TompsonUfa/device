@@ -23,16 +23,68 @@
                     Покупай модную технику
                 </div>
                 <div class="intro__subtitle">
-                Дешево, и без затруднений! 
-                Вы найдете большой выбор товаров, на которые всегда идут скидки!
+                    Дешево, и без затруднений! 
+                    Вы найдете большой выбор товаров, на которые всегда идут скидки!
                 </div>
                 <div class="intro__btn">
                     <a class="intro__link" href="#">Продолжить</a>
                 </div>
             </div>
             <div class="intro__prev">
-                <div class="wrapper"></div>
+                <div class="wrapper">
+                    <img class="slide" src="assets/img/slide/slide.svg" alt="Слайд 1">
+                </div>
             </div>
+            
+        </div>
+        <div class="popular">
+                <div class="popular__title">
+                Популярные запросы
+                </div>
+                <div class="product">
+                    <div class="product__item">
+                        <div class="product__img">
+                            <img src="assets/img/product/iphoneWhite8.png" alt="">
+                        </div>
+                        <h2 class="product__name">iPhone 8</h2>
+                        <p class="product__price">19.990₽</p>
+                    </div>
+                    <div class="product__item">
+                        <div class="product__img">
+                            <img  src="assets/img/product/iPadWhite.png" alt="">
+                        </div>
+                        <h2 class="product__name">iPad</h2>
+                        <p class="product__price">69.990₽</p>
+                    </div>
+                    <div class="product__item">
+                        <div class="product__img">
+                            <img src="assets/img/product/iphoneWhite8.png" alt="">
+                        </div>
+                        <h2 class="product__name">iPhone 8</h2>
+                        <p class="product__price">19.990₽</p>
+                    </div>
+                    <div class="product__item">
+                        <div class="product__img">
+                            <img src="assets/img/product/iphoneWhite8.png" alt="">
+                        </div>
+                        <h2 class="product__name">iPhone 8</h2>
+                        <p class="product__price">19.990₽</p>
+                    </div>
+                    <div class="product__item">
+                        <div class="product__img">
+                            <img src="assets/img/product/iphoneWhite8.png" alt="">
+                        </div>
+                        <h2 class="product__name">iPhone 8</h2>
+                        <p class="product__price">19.990₽</p>
+                    </div>
+                    <div class="product__item">
+                        <div class="product__img">
+                            <img src="assets/img/product/iphoneWhite8.png" alt="">
+                        </div>
+                        <h2 class="product__name">iPhone 8</h2>
+                        <p class="product__price">19.990₽</p>
+                    </div>
+                </div>
         </div>
     </main>
     </div>
